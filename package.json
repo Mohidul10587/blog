@@ -1,0 +1,8 @@
+{
+  "name": "blog-plugin",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "next-auth": "^5.0.0"
+  }
+}
